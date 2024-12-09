@@ -155,6 +155,6 @@ class __TwigTemplate_a9018117a46508508f27d9cb479e8ba8 extends Template
     </tbody>
 </table>
 </div>
-", "@WebProfiler/Profiler/bag.html.twig", "/home/bz/projects/PneusOnlineSuisse/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/bag.html.twig");
+", "@WebProfiler/Profiler/bag.html.twig", "/home/bz/projects/template_sf7/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/bag.html.twig");
     }
 }

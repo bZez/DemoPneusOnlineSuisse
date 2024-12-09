@@ -231,6 +231,6 @@ class __TwigTemplate_c5e18cba054607cbdcf4cc805092f9ac extends Template
     word-wrap: break-word;
     word-break: break-all;
 }
-", "@WebProfiler/Profiler/open.css.twig", "/home/bz/projects/PneusOnlineSuisse/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/open.css.twig");
+", "@WebProfiler/Profiler/open.css.twig", "/home/bz/projects/template_sf7/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/open.css.twig");
     }
 }

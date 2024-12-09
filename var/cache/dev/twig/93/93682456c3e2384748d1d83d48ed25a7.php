@@ -240,6 +240,6 @@ class __TwigTemplate_23c9a2df93e58768f5d625a54a74ccb7 extends Template
         {% block body %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/home/bz/projects/PneusOnlineSuisse/templates/base.html.twig");
+", "base.html.twig", "/home/bz/projects/template_sf7/templates/base.html.twig");
     }
 }

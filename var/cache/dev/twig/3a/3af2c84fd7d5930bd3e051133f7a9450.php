@@ -137,6 +137,6 @@ class __TwigTemplate_56627b6606f38937d1790acce7d9ca00 extends Template
 .exception-message-wrapper .container {
     min-height: unset;
 }
-", "@WebProfiler/Collector/exception.css.twig", "/home/bz/projects/PneusOnlineSuisse/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.css.twig");
+", "@WebProfiler/Collector/exception.css.twig", "/home/bz/projects/template_sf7/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.css.twig");
     }
 }

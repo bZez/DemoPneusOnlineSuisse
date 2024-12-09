@@ -16,7 +16,7 @@ if (!\class_exists(App_KernelDevDebugContainer::class, false)) {
 
 return new \ContainerEqtlwaE\App_KernelDevDebugContainer([
     'container.build_hash' => 'EqtlwaE',
-    'container.build_id' => '11e6aa97',
-    'container.build_time' => 1733757925,
+    'container.build_id' => '65dc9f6a',
+    'container.build_time' => 1733761839,
     'container.runtime_mode' => \in_array(\PHP_SAPI, ['cli', 'phpdbg', 'embed'], true) ? 'web=0' : 'web=1',
 ], __DIR__.\DIRECTORY_SEPARATOR.'ContainerEqtlwaE');

@@ -207,6 +207,6 @@ class __TwigTemplate_ceb542f8f9fece7eab30cc75ba857d62 extends Template
 .timeline-graph .timeline-period {
     stroke-width: 0;
 }
-", "@WebProfiler/Collector/time.css.twig", "/home/bz/projects/PneusOnlineSuisse/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.css.twig");
+", "@WebProfiler/Collector/time.css.twig", "/home/bz/projects/template_sf7/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.css.twig");
     }
 }
