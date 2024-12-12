@@ -186,6 +186,6 @@ class __TwigTemplate_b2a6e4aab78fdecd34237abcdc652254 extends Template
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "/home/bz/projects/PneusOnlineSuisse/vendor/doctrine/doctrine-bundle/templates/Collector/explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "/home/bz/projects/template_sf7/vendor/doctrine/doctrine-bundle/templates/Collector/explain.html.twig");
     }
 }
